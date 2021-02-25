@@ -14,6 +14,7 @@ Some general comments
 
    summary
    code
+   example_google
    simpleble
 
 
